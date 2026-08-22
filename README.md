@@ -24,7 +24,7 @@ Affiliate links to:
 - **ReStage AI** (virtual staging)
 - Plus 6 others with smaller commissions
 
-Email signup routes to `discus.leads@protonmail.com` via formsubmit.co (no account required).
+Email signup routes to `discus.leads@proton.me` via formsubmit.co (no account required).
 
 ## Next steps
 
